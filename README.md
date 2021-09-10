@@ -1,6 +1,6 @@
-# [C#] Process_ThreadInfo
+# [C#] Process_Thread_Info
  - Thread Id
- - Start Address
+ - Start Address (Symbol)
  - Priority
 
 ![alt text](https://raw.githubusercontent.com/itsmeny/Process_ThreadInfo/master/gif/ui.gif)
